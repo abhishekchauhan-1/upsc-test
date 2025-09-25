@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: अपनी custom CSS भी यहीं डाल सकते हो */
+body {
+  @apply bg-yellow-50;
+}
